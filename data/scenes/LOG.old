@@ -1,0 +1,24 @@
+2023/09/29-11:05:12.460954 7f729aefd640 Recovering log #16
+2023/09/29-11:05:12.465565 7f729aefd640 Delete type=3 #14
+2023/09/29-11:05:12.465607 7f729aefd640 Delete type=0 #16
+2023/10/01-16:23:37.957060 7f6ff2fde640 Level-0 table #22: started
+2023/10/01-16:23:37.992517 7f6ff2fde640 Level-0 table #22: 1469635 bytes OK
+2023/10/01-16:23:37.994652 7f6ff2fde640 Delete type=0 #20
+2023/10/01-16:41:47.818531 7f6ff2fde640 Compacting 1@1 + 1@2 files
+2023/10/01-16:41:47.825419 7f6ff2fde640 Generated table #23@1: 674 keys, 117579 bytes
+2023/10/01-16:41:47.825428 7f6ff2fde640 Compacted 1@1 + 1@2 files => 117579 bytes
+2023/10/01-16:41:47.828115 7f6ff2fde640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/01-16:41:47.828164 7f6ff2fde640 Delete type=2 #18
+2023/10/01-16:41:47.828719 7f6ff2fde640 Delete type=2 #22
+2023/10/01-16:49:34.674350 7f6ff2fde640 Level-0 table #25: started
+2023/10/01-16:49:34.699344 7f6ff2fde640 Level-0 table #25: 1064025 bytes OK
+2023/10/01-16:49:34.701563 7f6ff2fde640 Delete type=0 #21
+2023/10/01-16:49:34.707413 7f6ff2fde640 Manual compaction at level-0 from '!scenes!27qJpQmnzOJ51LyM' @ 72057594037927935 : 1 .. '!scenes.walls!yoPUGxePOKtlY007.vfA8OKLDU9NfsMhW' @ 0 : 0; will stop at (end)
+2023/10/01-16:49:34.707698 7f6ff2fde640 Manual compaction at level-1 from '!scenes!27qJpQmnzOJ51LyM' @ 72057594037927935 : 1 .. '!scenes.walls!yoPUGxePOKtlY007.vfA8OKLDU9NfsMhW' @ 0 : 0; will stop at '!scenes.walls!az05aKFQHOUZbWwU.zow9JcBM1gt7Mt0j' @ 4768 : 0
+2023/10/01-16:49:34.707702 7f6ff2fde640 Compacting 1@1 + 1@2 files
+2023/10/01-16:49:34.714405 7f6ff2fde640 Generated table #26@1: 664 keys, 117550 bytes
+2023/10/01-16:49:34.714413 7f6ff2fde640 Compacted 1@1 + 1@2 files => 117550 bytes
+2023/10/01-16:49:34.715785 7f6ff2fde640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/01-16:49:34.715832 7f6ff2fde640 Delete type=2 #23
+2023/10/01-16:49:34.715915 7f6ff2fde640 Delete type=2 #25
+2023/10/01-16:49:34.725652 7f6ff2fde640 Manual compaction at level-1 from '!scenes.walls!az05aKFQHOUZbWwU.zow9JcBM1gt7Mt0j' @ 4768 : 0 .. '!scenes.walls!yoPUGxePOKtlY007.vfA8OKLDU9NfsMhW' @ 0 : 0; will stop at (end)

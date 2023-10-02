@@ -1,0 +1,16 @@
+{
+  "title": "En Otra Galaxia Muy Lejana",
+  "id": "en-otra-galaxia-muy-lejana",
+  "system": "sw5e",
+  "joinTheme": "default",
+  "description": "<p>Enrique juega</p>",
+  "coreVersion": "11.308",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.3.1.2.6.1",
+  "lastPlayed": "Sun Oct 01 2023 16:50:02 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 538997,
+  "background": "https://i.ibb.co/NxX5G32/Otra-Galaxia-Muy-Lejana-Landscape-Menu1.jpg"
+}
