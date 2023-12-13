@@ -1,7 +1,15 @@
-2023/09/29-11:05:12.362140 7f7299efb640 Recovering log #16
-2023/09/29-11:05:12.367641 7f7299efb640 Delete type=3 #14
-2023/09/29-11:05:12.367663 7f7299efb640 Delete type=0 #16
-2023/10/01-16:49:34.736666 7f6ff2fde640 Level-0 table #21: started
-2023/10/01-16:49:34.737144 7f6ff2fde640 Level-0 table #21: 0 bytes OK
-2023/10/01-16:49:34.739909 7f6ff2fde640 Delete type=0 #19
-2023/10/01-16:49:34.753525 7f6ff2fde640 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2023/12/06-16:55:21.637552 7fc0b1ffb640 Recovering log #177
+2023/12/06-16:55:21.642431 7fc0b1ffb640 Delete type=3 #176
+2023/12/06-16:55:21.642451 7fc0b1ffb640 Delete type=0 #177
+2023/12/06-18:29:22.721892 7fc0ad894640 Level-0 table #181: started
+2023/12/06-18:29:22.725931 7fc0ad894640 Level-0 table #181: 4653 bytes OK
+2023/12/06-18:29:22.727839 7fc0ad894640 Delete type=0 #179
+2023/12/06-18:29:22.749777 7fc0ad894640 Manual compaction at level-0 from '!combats!UlxFBc2iCv9t24OL' @ 72057594037927935 : 1 .. '!combats.combatants!UlxFBc2iCv9t24OL.xLqEJXznkpKeuzdQ' @ 0 : 0; will stop at (end)
+2023/12/06-18:29:22.755217 7fc0ad894640 Manual compaction at level-1 from '!combats!UlxFBc2iCv9t24OL' @ 72057594037927935 : 1 .. '!combats.combatants!UlxFBc2iCv9t24OL.xLqEJXznkpKeuzdQ' @ 0 : 0; will stop at '!combats.combatants!gjSey3ZNjQKZ1S51.nqpQzwxenqHLyEzS' @ 2037 : 1
+2023/12/06-18:29:22.755222 7fc0ad894640 Compacting 1@1 + 1@2 files
+2023/12/06-18:29:22.756993 7fc0ad894640 Generated table #182@1: 10 keys, 2463 bytes
+2023/12/06-18:29:22.757000 7fc0ad894640 Compacted 1@1 + 1@2 files => 2463 bytes
+2023/12/06-18:29:22.758377 7fc0ad894640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/06-18:29:22.758408 7fc0ad894640 Delete type=2 #175
+2023/12/06-18:29:22.758435 7fc0ad894640 Delete type=2 #181
+2023/12/06-18:29:22.837968 7fc0ad894640 Manual compaction at level-1 from '!combats.combatants!gjSey3ZNjQKZ1S51.nqpQzwxenqHLyEzS' @ 2037 : 1 .. '!combats.combatants!UlxFBc2iCv9t24OL.xLqEJXznkpKeuzdQ' @ 0 : 0; will stop at (end)

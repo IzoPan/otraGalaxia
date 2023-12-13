@@ -3,14 +3,14 @@
   "id": "en-otra-galaxia-muy-lejana",
   "system": "sw5e",
   "joinTheme": "default",
-  "description": "<p>Enrique juega</p>",
-  "coreVersion": "11.308",
+  "description": "<p>Merequetengue</p>",
+  "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "11.315"
   },
-  "systemVersion": "2.3.1.2.6.1",
-  "lastPlayed": "Sun Oct 01 2023 16:50:02 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 538997,
+  "systemVersion": "2.4.0.2.7.0",
+  "lastPlayed": "Wed Dec 13 2023 18:31:31 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 3023676,
   "background": "https://i.ibb.co/NxX5G32/Otra-Galaxia-Muy-Lejana-Landscape-Menu1.jpg"
 }
